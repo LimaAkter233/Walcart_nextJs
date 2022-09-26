@@ -136,7 +136,7 @@ https://www.figma.com/file/NBL6umKMRLcCrUHAd920Bp/Walcart-Home-Page-Landing-Page
     font-size: 14px;
     color: #ffffff;
     font-weight: 800;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     display: inline-block;
     padding: 14px 30px 15px;
     background: #EF262C;

@@ -135,10 +135,10 @@ https://www.figma.com/file/NBL6umKMRLcCrUHAd920Bp/Walcart-Home-Page-Landing-Page
 .site_btn {
     font-size: 14px;
     color: #ffffff;
-    font-weight: 800;
+    font-weight: 500;
     /* text-transform: uppercase; */
     display: inline-block;
-    padding: 14px 30px 15px;
+    padding: 17px 30px 17px;
     background: #EF262C;
     border: none;
     border-top-right-radius: 8px;
@@ -163,6 +163,7 @@ https://www.figma.com/file/NBL6umKMRLcCrUHAd920Bp/Walcart-Home-Page-Landing-Page
     font-size: 14px;
     line-height: 13px;
     opacity: 0.4;
+    cursor: pointer;
   }
   .user_text h5{
     margin: 0;
@@ -170,6 +171,7 @@ https://www.figma.com/file/NBL6umKMRLcCrUHAd920Bp/Walcart-Home-Page-Landing-Page
     font-weight: 700;
     font-size: 16px;
     line-height: 25px;
+    cursor: pointer;
   }
   .user_icon{
     font-size: 20px;
@@ -268,13 +270,13 @@ https://www.figma.com/file/NBL6umKMRLcCrUHAd920Bp/Walcart-Home-Page-Landing-Page
 
 
 .top_categories_wrap{
-    flex-basis: 244px;
+    flex-basis: 270px;
 }
   .top_categories{
   
     background: #EF262C;
     position: relative;
-    padding: 18px 16px;
+    padding: 18px 16px 18px 22px;
     cursor: pointer;
     color: #FFFFFF;
     font-size: 16px;

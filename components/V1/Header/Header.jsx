@@ -53,13 +53,13 @@ import { FaRegUser} from 'react-icons/fa'
                   <div className={styles.hero_search_for}>
                             <form action="#">
                              <span className={styles.search_ic}><BiSearch/></span>   <input type="text" placeholder="What do you want to order?"/>
-                                <button type="submit" className={styles.site_btn}>SEARCH</button>
+                                <button type="submit" className={styles.site_btn}>Search</button>
                             </form>
                         </div>
                   <div className={styles.user_info}>
                     <span className={styles.user_icon}><FaRegUser/></span>
                     <div  className={styles.user_text}>
-                      <small>Sign In</small>
+                     <small>Sign In</small>
                       <h5 >Account</h5>
                   </div> 
                   </div>
